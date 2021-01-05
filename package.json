@@ -9,7 +9,7 @@
 
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "idx": "^2.5.5",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
